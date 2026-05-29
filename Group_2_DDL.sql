@@ -1,3 +1,4 @@
+-- Please make sure to run this file with execution of SQL script continues after failed statement
 CREATE TABLE `user` (
   `user_id` int NOT NULL,
   `first_name` varchar(50) DEFAULT NULL,
