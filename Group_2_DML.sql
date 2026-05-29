@@ -1,4 +1,4 @@
-
+-- Please make sure to run this file with execution of SQL script continues after failed statement
 -- Dumping data for table `user`
 --
 
