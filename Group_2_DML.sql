@@ -1,4 +1,4 @@
--- Please make sure to run this file with execution of SQL script continues after failed statement
+-- Please make sure to run this file with execution of SQL script continues after failed statement due differences in mySQL versions
 -- Dumping data for table `user`
 --
 
