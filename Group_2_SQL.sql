@@ -1,4 +1,4 @@
--- Please make sure to run this file with execution of SQL script continues after failed statement
+-- Please make sure to run this file with execution of SQL script continues after failed statement due differences in mySQL versions
 -- Total transaction volume processed by Venmo this year
 SELECT SUM(amount) AS total_transaction_volume
 FROM Transaction
