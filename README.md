@@ -1,4 +1,7 @@
 Executive Summary 
+
+
+
 This project involves the development of a relational database designed to support the core 
 operations of Venmo, a peer-to-peer mobile payment service owned by PayPal. Venmo allows 
 users to send and receive money digitally, connect their bank accounts or debit cards, and engage 
