@@ -115,7 +115,7 @@ COMPLIANCEOFFICER.
 <img width="2550" height="3300" alt="Business Report-images-8" src="https://github.com/user-attachments/assets/c856050c-09ce-4a2e-b91e-58217f87a536" />
 
 # Summary & Conclusion 
-Project Component Summary: 
+## Project Component Summary: 
 We began by researching Venmo’s operations and business model to understand the platform’s 
 core functionalities. Based on this research, we developed 20 user requirements and 20 business 
 rules to guide the structure and design of our prototype database. Using these, we created 
@@ -124,17 +124,18 @@ implemented the database using SQL and populated it with sample data generated v
 Finally, we ran a set of queries to explore how the database could answer practical business 
 questions, such as identifying active users, tracking transaction volume, and analyzing user 
 growth. 
-Why Sponsor this Project: 
+
+## Why Sponsor this Project: 
 Sponsoring the creation of this database model offers a valuable opportunity to explore how a 
 well-structured data system could support Venmo’s core functions and enable clearer operational 
 insights. While this project is a prototype, it demonstrates how thoughtful database design lays 
 the groundwork for accurate transaction tracking, user behavior analysis, and strategic reporting. 
-Key benefits include: 
-● Stronger data foundations: A relational schema that captures key elements of Venmo’s 
+### Key benefits include: 
+●  Stronger data foundations: A relational schema that captures key elements of Venmo’s 
 activity such as user information, transactions, and account balances. 
-● Operational insight: Queries that show user growth, transaction trends, and behavioral 
+●  Operational insight: Queries that show user growth, transaction trends, and behavioral 
 patterns across different user segments. 
-● Improved visibility: Easier access to aggregated data for business reporting, customer 
+●  Improved visibility: Easier access to aggregated data for business reporting, customer 
 support patterns, or platform performance indicators. 
 In a data-centric business environment, this project shows how investing in relational data 
 infrastructure can support more informed decision-making, better monitoring, and long-term 
