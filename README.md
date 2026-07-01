@@ -1,5 +1,4 @@
-Executive Summary 
-
+# Executive Summary
 
 
 This project involves the development of a relational database designed to support the core 
@@ -8,9 +7,7 @@ users to send and receive money digitally, connect their bank accounts or debit 
 with a social feed that displays transaction activity among friends. 
  
 Venmo’s business model is built around facilitating digital financial transactions while promoting 
-user engagement through social interaction. Although the platform is free to use for most P2P 
- 1 
-transfers, Venmo generates revenue through instant transfer fees, merchant transaction fees when 
+user engagement through social interaction. Although the platform is free to use for most P2P transfers, Venmo generates revenue through instant transfer fees, merchant transaction fees when 
 users pay businesses using Venmo, and fees for premium services such as Venmo debit cards. 
 The company’s goal is to simplify money movement while mixing financial activity within a 
 social and mobile-first user experience. 
@@ -22,8 +19,16 @@ queries to simulate business analysis functions such as identifying the number o
 transactions, tracking new user growth, and ranking the most active users. This project 
 demonstrates how structured data systems can support data-driven decision-making and efficient 
 platform operations. 
-User Requirements  
-Account Creation & Authentication: 
+
+
+
+
+
+
+# User Requirements  
+
+
+## Account Creation & Authentication: 
 1. As a new user, I want to create an account using my email, phone number, and a secure 
 password so that I can start using Venmo. 
 2. As a user, I want to securely log in and log out of my account to protect my data and 
@@ -50,7 +55,6 @@ Account & Balance Features:
 available. 
 12. As a user, I want to transfer money from my Venmo balance to my linked bank account 
 so I can access my funds outside the app. 
-2 
 13. As a user, I want to add money to my balance from a linked account to ensure I have 
 enough funds to pay others.14. As a user, I want to view a complete transaction history 
 with filters (e.g., dates, keywords) to track my financial activity. 
@@ -68,8 +72,10 @@ integrity and investigate issues.
 19. As a compliance officer, I want to flag and review suspicious transactions to detect 
 potential fraud or money laundering. 
 20. As a business analyst, I want to generate reports on transaction volume, usage trends, and 
-active users to support business growth and improvements. 
-Business Rules 
+active users to support business growth and improvements.
+
+
+## Business Rules 
 1. USERS can send many PAYMENTS. 
 2. PAYMENTS are initiated by one and only one USER (the sender). 
 3. USERS can receive many PAYMENTS. 
@@ -93,7 +99,6 @@ PAYMENTS.
 18. PAYMENTREQUESTS are made to one or more USERS (recipients). 
 19. TRANSACTIONS can be flagged by one or more ADMINS for review. 
 20. ADMINS can flag many TRANSACTIONS. 
-3 
 21. ADMINS generate one or more ACTIVITYREPORTS. 
 22. ACTIVITYREPORTS can include data from many USERS and TRANSACTIONS. 
 23. COMPLIANCEOFFICERS can review one or more FLAGGEDTRANSACTIONS. 
@@ -101,3 +106,36 @@ PAYMENTS.
 COMPLIANCEOFFICER. 
 25. USERS can have one or more TRANSACTIONHISTORIES. 
 26. TRANSACTIONHISTORIES belong to one and only one USER.
+
+
+# Data Outputs/Business Questions
+<img width="644" height="790" alt="image" src="https://github.com/user-attachments/assets/8c07acbf-c2e6-40c5-bdfa-c996ccee59a4" />
+
+# Physical Model
+<img width="2550" height="3300" alt="Business Report-images-8" src="https://github.com/user-attachments/assets/c856050c-09ce-4a2e-b91e-58217f87a536" />
+
+# Summary & Conclusion 
+Project Component Summary: 
+We began by researching Venmo’s operations and business model to understand the platform’s 
+core functionalities. Based on this research, we developed 20 user requirements and 20 business 
+rules to guide the structure and design of our prototype database. Using these, we created 
+conceptual, logical, and physical data models to outline a scalable relational schema. We then 
+implemented the database using SQL and populated it with sample data generated via Mockaroo. 
+Finally, we ran a set of queries to explore how the database could answer practical business 
+questions, such as identifying active users, tracking transaction volume, and analyzing user 
+growth. 
+Why Sponsor this Project: 
+Sponsoring the creation of this database model offers a valuable opportunity to explore how a 
+well-structured data system could support Venmo’s core functions and enable clearer operational 
+insights. While this project is a prototype, it demonstrates how thoughtful database design lays 
+the groundwork for accurate transaction tracking, user behavior analysis, and strategic reporting. 
+Key benefits include: 
+● Stronger data foundations: A relational schema that captures key elements of Venmo’s 
+activity such as user information, transactions, and account balances. 
+● Operational insight: Queries that show user growth, transaction trends, and behavioral 
+patterns across different user segments. 
+● Improved visibility: Easier access to aggregated data for business reporting, customer 
+support patterns, or platform performance indicators. 
+In a data-centric business environment, this project shows how investing in relational data 
+infrastructure can support more informed decision-making, better monitoring, and long-term 
+operational value.
