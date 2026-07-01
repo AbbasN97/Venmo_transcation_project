@@ -1,0 +1,9 @@
+<img width="2550" height="3300" alt="Business Report-images-10" src="https://github.com/user-attachments/assets/b77d4aa7-5a65-4e5b-b559-a31a66b8b3dd" />
+<img width="2550" height="3300" alt="Business Report-images-11" src="https://github.com/user-attachments/assets/3ce4ce80-a42d-4e70-a2d4-4fb48f28fa18" />
+<img width="2550" height="3300" alt="Business Report-images-12" src="https://github.com/user-attachments/assets/20b52c8d-6d9b-4acb-af6e-9e8c00631844" />
+<img width="2550" height="3300" alt="Business Report-images-13" src="https://github.com/user-attachments/assets/d924f6fe-1688-48f1-a97c-01b130990bac" />
+<img width="2550" height="3300" alt="Business Report-images-14" src="https://github.com/user-attachments/assets/5ed963ab-100c-4cc1-b11b-85f6c564313a" />
+<img width="2550" height="3300" alt="Business Report-images-15" src="https://github.com/user-attachments/assets/80735ccc-c6a6-46f2-b793-428484a638e1" />
+<img width="2550" height="3300" alt="Business Report-images-16" src="https://github.com/user-attachments/assets/1f562fb4-0a33-45ce-8ed1-70778cf6a4c0" />
+<img width="2550" height="3300" alt="Business Report-images-17" src="https://github.com/user-attachments/assets/e56a7cf3-c47c-4116-a446-e24cd34b1e82" />
+<img width="2550" height="3300" alt="Business Report-images-18" src="https://github.com/user-attachments/assets/0443797b-829c-4c1c-9b01-6e5cea193b91" />
