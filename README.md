@@ -130,13 +130,13 @@ Sponsoring the creation of this database model offers a valuable opportunity to 
 well-structured data system could support Venmo’s core functions and enable clearer operational 
 insights. While this project is a prototype, it demonstrates how thoughtful database design lays 
 the groundwork for accurate transaction tracking, user behavior analysis, and strategic reporting. 
-### Key benefits include: 
+### Key benefits include:\
 ●  Stronger data foundations: A relational schema that captures key elements of Venmo’s 
-activity such as user information, transactions, and account balances. 
+activity such as user information, transactions, and account balances.\
 ●  Operational insight: Queries that show user growth, transaction trends, and behavioral 
-patterns across different user segments. 
+patterns across different user segments. \
 ●  Improved visibility: Easier access to aggregated data for business reporting, customer 
-support patterns, or platform performance indicators. 
+support patterns, or platform performance indicators. \
 In a data-centric business environment, this project shows how investing in relational data 
 infrastructure can support more informed decision-making, better monitoring, and long-term 
 operational value.
