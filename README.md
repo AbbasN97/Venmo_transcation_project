@@ -110,7 +110,7 @@ COMPLIANCEOFFICER.
 
 # Data Outputs/Business Questions
 <img width="644" height="790" alt="image" src="https://github.com/user-attachments/assets/8c07acbf-c2e6-40c5-bdfa-c996ccee59a4" />
-
+### Please refer to the Business_Question_Query.md for SQL queries
 # Physical Model
 <img width="2550" height="3300" alt="Business Report-images-8" src="https://github.com/user-attachments/assets/c856050c-09ce-4a2e-b91e-58217f87a536" />
 
