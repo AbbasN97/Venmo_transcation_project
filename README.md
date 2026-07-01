@@ -28,7 +28,7 @@ platform operations.
 # User Requirements  
 
 
-## Account Creation & Authentication: 
+### Account Creation & Authentication: 
 1. As a new user, I want to create an account using my email, phone number, and a secure 
 password so that I can start using Venmo. 
 2. As a user, I want to securely log in and log out of my account to protect my data and 
@@ -39,7 +39,7 @@ Your Customer) regulations.
 profile current. 
 5. As a system administrator, I want to record when accounts are created and verified to 
 ensure compliance and auditability. 
-Transaction Management: 
+### Transaction Management: 
 6. As a user, I want to send money by entering another user’s username, the amount, and an 
 optional message so I can pay friends and family. 
 7. As a user, I want to receive money and get notified when a payment is made to me so I 
@@ -50,7 +50,7 @@ fix mistakes.
 (e.g., dinner bills). 
 10. As a user, I want to set a default payment method (Venmo balance, bank account, or card) 
 to control how payments are funded. 
-Account & Balance Features: 
+### Account & Balance Features: 
 11. As a user, I want to view my current balance so I know how much money I have 
 available. 
 12. As a user, I want to transfer money from my Venmo balance to my linked bank account 
@@ -58,7 +58,7 @@ so I can access my funds outside the app.
 13. As a user, I want to add money to my balance from a linked account to ensure I have 
 enough funds to pay others.14. As a user, I want to view a complete transaction history 
 with filters (e.g., dates, keywords) to track my financial activity. 
-Friends & Social Features: 
+### Friends & Social Features: 
 14. As a user, I want to search for and add friends by name or username so I can easily pay 
 the right people. 
 15. As a user, I want to see a feed of my friends’ public transactions to stay socially 
@@ -66,7 +66,7 @@ connected.
 16. As a user, I want to set privacy levels on each transaction (private, friends-only, or public) 
 to control who sees my activity. 
 17. As a user, I want to react to my friends' transactions. 
-Administrative & Security Access: 
+### Administrative & Security Access: 
 18. As an admin, I want to access all transaction records and user profiles to monitor system 
 integrity and investigate issues. 
 19. As a compliance officer, I want to flag and review suspicious transactions to detect 
